@@ -1,0 +1,7 @@
+[package]
+name = "days-of-rust"
+version = "0.1.0"
+authors = ["Poulad Ashrafpour <poulad.pld@gmail.com>"]
+edition = "2018"
+
+[dependencies]
