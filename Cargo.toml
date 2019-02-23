@@ -5,3 +5,4 @@ authors = ["Poulad Ashrafpour <poulad.pld@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+primal = "0.2.3"
